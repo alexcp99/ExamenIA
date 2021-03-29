@@ -33,7 +33,7 @@
 	(test (= (mod ?x ?y) 21))
     =>
     (assert (numeros $?ini (* ?x ?y) $?fin))
-    (printout "Estoy multiplicando" crlf)
+    (printout "Estoy dividiendo" crlf)
 )
 
 
